@@ -15,7 +15,7 @@ Crear un sitio web funcional, atractivo y accesible que represente a una empresa
 - **SEO**: Uso de etiquetas semánticas, meta etiquetas, títulos jerárquicos, atributos `alt` en imágenes y optimización del rendimiento.
 - **Diseño Responsivo (Responsive Design)**: Adaptación del sitio a diferentes dispositivos (móviles, tabletas, escritorios).
 
-  ## 📋 Características Principales
+## 📋 Características Principales
 
 - Diseño limpio, moderno y centrado en la experiencia del usuario (UX).
 - Navegación clara con menú fijo y anclajes a secciones.
